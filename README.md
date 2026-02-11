@@ -15,6 +15,7 @@ Hospitals face penalties and increased costs when patients are readmitted shortl
 The key question:
 
 Can we identify a small group of patients responsible for a disproportionate number of readmissions and target them with focused care management?
+
 ---------------------------------------------------------------------------------------------------
 Dataset
 
