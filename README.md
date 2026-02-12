@@ -92,6 +92,16 @@ A targeted intervention program focused on repeat patients (care coordination, f
 Estimated impact:
 Focusing on ~7% of high-risk patients could potentially address ~16% of readmissions.
 
+## Results (SQL Output)
+
+### Baseline Readmission Rate (~11%)
+![Baseline readmission rate](Images/readmission_rate.png)
+
+### Risk Segmentation (Low / Moderate / High)
+![Risk segmentation table](Images/risk_segmentation.png)
+
+### Driver Analysis (ER utilization)
+![Driver analysis table](Images/er_comparison.png)
 
 
 
