@@ -1,0 +1,19 @@
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Raw datasets
+data/
+*.csv
+
+# Mac system junk
+.DS_Store
+
+# Python cache (future-proofing)
+__pycache__/
+*.pyc
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
