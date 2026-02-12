@@ -92,8 +92,7 @@ A targeted intervention program focused on repeat patients (care coordination, f
 Estimated impact:
 Focusing on ~7% of high-risk patients could potentially address ~16% of readmissions.
 
-## Readmission Rate
-![Readmission Rate](images/readmission_rate.png)
+
 
 
 
