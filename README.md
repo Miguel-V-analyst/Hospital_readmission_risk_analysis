@@ -17,7 +17,7 @@ The key question:
 Can we identify a small group of patients responsible for a disproportionate number of readmissions and target them with focused care management?
 
 ---------------------------------------------------------------------------------------------------
-Dataset
+## Dataset
 
 - Source: Kaggle – Diabetes 130-US Hospitals Dataset
 
@@ -41,7 +41,7 @@ Key variables used:
 
 --------------------------------------------------------------------------------------------------
 
-Methodology
+## Methodology
 
 The analysis followed a structured analytics workflow:
 
@@ -71,7 +71,7 @@ Key SQL techniques:
 
 --------------------------------------------------------------------------------------------------
 
-Key Findings
+## Key Findings
 
 Overall 30-day readmission rate: ~11%
 
@@ -85,7 +85,7 @@ Interpretation:
 Readmissions were less associated with inpatient treatment intensity and more associated with post-discharge care behavior, particularly emergency department utilization.
 
 --------------------------------------------------------------------------------------------------
-Recommendation
+## Recommendation
 
 A targeted intervention program focused on repeat patients (care coordination, follow-up scheduling, and outreach) could significantly reduce readmissions without requiring hospital-wide operational changes.
 
